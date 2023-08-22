@@ -1,0 +1,1 @@
+This repository is from [Azure-Samples/openai](https://github.com/Azure-Samples/openai/blob/main/Basic_Samples/Functions/README.md), containing samples demonstrating how to use functions to extend the current capabilities of GPT Models.
